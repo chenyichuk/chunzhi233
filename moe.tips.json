@@ -1,7 +1,0 @@
-{
-  "name": "YourProjectName",
-  "version": 2,
-  "routes": [
-    {"src": "/(.*)","dest": "https://moe.tips/$1"}
-  ]
-}
